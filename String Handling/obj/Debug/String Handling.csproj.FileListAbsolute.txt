@@ -1,0 +1,22 @@
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\Debug\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\String Handler.exe.config
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\String Handler.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\System.Management.Automation.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Debug\Office.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handling.csproj.GenerateResource.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handling.csproj.CoreCompileInputs.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handling.csproj.CopyComplete
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Debug\String Handler.pdb

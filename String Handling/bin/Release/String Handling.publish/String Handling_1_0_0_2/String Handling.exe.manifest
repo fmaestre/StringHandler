@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="String Handling.exe" version="1.0.0.2" publicKeyToken="f644cd1dca5b449c" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="String Handling" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="String Handling.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="String Handling.exe" size="20480">
+      <assemblyIdentity name="String Handling" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Jn0Z7bHfNjZ2lhOzqsD9e6oTUE4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=FMAESTRE\Francio Maestre" issuerKeyHash="cd3f57d8f1282bf32394cb28ef51d59565c240cc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>p70fZal2Z8DESn+TfGwpK/1vqIs=</DigestValue></Reference></SignedInfo><SignatureValue>ke7hSTcCIdjccs6W2xcCHv/q8wFfFYlSL4EKQwwTVO7+6JH/nwd2Z5CECDCusKf7cQAo1EXA2wB5hEslfoG6fqqj4SyebxpULPUSW9V6w3P880qIOVqFCOp4nZJHGfjO5X8tYbe/Kv6jC4Pxw1a64wlld8cPXNT8G93Wi/RTWYw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>viS+fJEv+6GXXDWlkLB5Em93TOJTQY1IvIIjfH0Iswgm5J763+laUH9kyr74bvfdWdLfV0dMdHXBL4ZofwdDe5nmb6lPlFXC+ETMWYZjU32awjw7hhoTNZ+WBF02I25Cv2aSCrPxVwF+zFHt9ujDNOYUm65qn4aoJDwZ5xibgNE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8ba86ffd2b296c7c937f4ac4c06776a9651fbda7" Description="" Url=""><as:assemblyIdentity name="String Handling.exe" version="1.0.0.2" publicKeyToken="f644cd1dca5b449c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FMAESTRE\Francio Maestre</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>C2rxSrPLK3QUsv8uzxIQhrEJylw=</DigestValue></Reference></SignedInfo><SignatureValue>ezekgI2lIgwtPpdE7ehnnxE51+a0Aeuw5kRian4Rsjn3pX9JRHS90xKU7FkJq0WWitZktmMXxddf0BK39UlmUucErxAwxQqTQ459VX3iVQPhtbgDMl620LCHWgCYtDL+NZDDLH2STyM11rwq/OHgB5/8vKySjb8IckXfUB8tI3A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>viS+fJEv+6GXXDWlkLB5Em93TOJTQY1IvIIjfH0Iswgm5J763+laUH9kyr74bvfdWdLfV0dMdHXBL4ZofwdDe5nmb6lPlFXC+ETMWYZjU32awjw7hhoTNZ+WBF02I25Cv2aSCrPxVwF+zFHt9ujDNOYUm65qn4aoJDwZ5xibgNE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAV6gAwIBAgIQQOyBDYHcKYxFoeWJo74TzjAJBgUrDgMCHQUAMDsxOTA3BgNVBAMeMABGAE0AQQBFAFMAVABSAEUAXABGAHIAYQBuAGMAaQBvACAATQBhAGUAcwB0AHIAZTAeFw0wNzA2MTAxODU1MTRaFw0wODA2MTAwMDU1MTRaMDsxOTA3BgNVBAMeMABGAE0AQQBFAFMAVABSAEUAXABGAHIAYQBuAGMAaQBvACAATQBhAGUAcwB0AHIAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAviS+fJEv+6GXXDWlkLB5Em93TOJTQY1IvIIjfH0Iswgm5J763+laUH9kyr74bvfdWdLfV0dMdHXBL4ZofwdDe5nmb6lPlFXC+ETMWYZjU32awjw7hhoTNZ+WBF02I25Cv2aSCrPxVwF+zFHt9ujDNOYUm65qn4aoJDwZ5xibgNECAwEAATAJBgUrDgMCHQUAA4GBAF8hiqn5m1zYWjDDUU42lAfesrF+5NS6U5872BkZ+yEjSFkny+XvbtbmvNwKrI5etUa5khG931ifhokpmVLp4x1F5EoBET+528er2AmCzclBIX3bfGsKjq3Y58tZFAeDR7fm38WWzDPbjw/AHJJyvRtCoJP3Y/95M3gfajJ15e10</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,24 @@
+bin\Debug\String Handling.exe
+bin\Debug\String Handling.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\String_Handling.Properties.Resources.resources
+obj\Debug\String Handling.csproj.GenerateResource.Cache
+obj\Debug\String Handling.exe
+obj\Debug\String Handling.pdb
+obj\Debug\String_Handling.frmStringsHandling.resources
+bin\Debug\String Handling.exe.manifest
+bin\Debug\String Handling.application
+obj\Debug\String Handling.exe.manifest
+obj\Debug\String Handling.application
+bin\Release\String Handling.exe.manifest
+bin\Release\String Handling.application
+bin\Release\String Handling.exe
+bin\Release\String Handling.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\String_Handling.frmStringsHandling.resources
+obj\Release\String_Handling.Properties.Resources.resources
+obj\Release\String Handling.csproj.GenerateResource.Cache
+obj\Release\String Handling.exe.manifest
+obj\Release\String Handling.application
+obj\Release\String Handling.exe
+obj\Release\String Handling.pdb

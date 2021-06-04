@@ -1,0 +1,16 @@
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.deps.json
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.runtimeconfig.json
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.runtimeconfig.dev.json
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ref\ConsoleNetCore.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\bin\Debug\net5.0\ConsoleNetCore.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.csprojAssemblyReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.AssemblyInfoInputs.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.AssemblyInfo.cs
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.csproj.CoreCompileInputs.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ref\ConsoleNetCore.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\ConsoleNetCore\obj\Debug\net5.0\ConsoleNetCore.genruntimeconfig.cache

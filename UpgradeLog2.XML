@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="String Handling">
+</Property><Property Name="Solution File" Value="C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling.sln">
+</Property><Property Name="User Options File" Value="C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling.suo">
+</Property><Property Name="Date" Value="Friday, July 22, 2011">
+</Property><Property Name="Time" Value="15:30 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="String Handling.sln" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling.sln">
+</Event><Event ErrorLevel="0" Project="" Source="String Handling.suo" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling.suo">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\String Handling.csproj" Description="Project file successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\String Handling.csproj">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\String Handling.csproj.user" Description="Project user file successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\String Handling.csproj.user">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\frmStringHindling.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\frmStringHindling.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\frmStringHindling.Designer.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\frmStringHindling.Designer.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Program.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Program.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Properties\Settings.settings" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\String Handling_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\String Handling_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\frmStringHindling.resx" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\frmStringHindling.resx">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\Properties\Resources.resx" Description="File successfully backed up as C:\Users\fmaestre\proyects\StringHandling\String Handling\Backup1\String Handling\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="String Handling" Source="String Handling\String Handling.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\String Handling.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="String Handling" Source="String Handling\String Handling.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="String Handling.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="String Handling.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="String Handling" Source="String Handling\String Handling.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

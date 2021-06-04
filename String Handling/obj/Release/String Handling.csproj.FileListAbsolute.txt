@@ -1,0 +1,49 @@
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.csproj.ResolveComReference.cache
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.exe
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.pdb
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\bin\Release\String Handling.exe.manifest
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\bin\Release\String Handling.application
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\bin\Release\String Handling.exe
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\bin\Release\String Handling.pdb
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\ResolveAssemblyReference.cache
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String_Handling.frmStringsHandling.resources
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String_Handling.Properties.Resources.resources
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.csproj.GenerateResource.Cache
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.exe.manifest
+C:\Francio's Bkup\Proyectos\StringHandling\String Handling\String Handling\obj\Release\String Handling.application
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String Handling.exe
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String Handling.pdb
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\Release\String Handling.exe.manifest
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\Release\String Handling.application
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\Release\String Handling.exe
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\Release\String Handling.pdb
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\ResGen.read.1.tlog
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\ResGen.write.1.tlog
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String Handling.exe.manifest
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\Release\String Handling.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\String Handler.exe.config
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\String Handler.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\HtmlAgilityPack.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\System.Management.Automation.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\HtmlAgilityPack.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\HtmlAgilityPack.xml
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\Release\Office.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handling.csprojAssemblyReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handling.csproj.GenerateResource.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handling.csproj.CoreCompileInputs.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handling.csproj.CopyComplete
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\Release\String Handler.pdb

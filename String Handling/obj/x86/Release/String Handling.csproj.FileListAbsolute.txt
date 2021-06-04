@@ -1,0 +1,55 @@
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.application
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.exe
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.pdb
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.application
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.exe
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.pdb
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\fmaestre\proyects\StringHandling\String Handling\String Handling\bin\x86\Release\Office.dll
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.exe
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.exe.config
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.application
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.application
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.exe
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\obj\x86\Release\String Handler.pdb
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\String Handler.pdb
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\fmaestre\proyects\___rml\StringHandling\String Handling\String Handling\bin\x86\Release\office.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\String Handler.exe.config
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\String Handler.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\HtmlAgilityPack.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\System.Management.Automation.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\HtmlAgilityPack.pdb
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\HtmlAgilityPack.xml
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\bin\x86\Release\Office.dll
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handling.csprojAssemblyReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handling.csproj.ResolveComReference.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String_Handling.frmStringsHandling.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String_Handling.Properties.Resources.resources
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handling.csproj.GenerateResource.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handling.csproj.CoreCompileInputs.cache
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handler.exe.manifest
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handler.application
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handling.csproj.CopyComplete
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handler.exe
+C:\Users\fmaestre\Google Drive\Projects\String Handling\String Handling\obj\x86\Release\String Handler.pdb
